@@ -57,7 +57,7 @@ const Footer = (props: Props) => {
           </div>
         </div>
 
-        <div className="lg:hidden flex gap-x-9 items-center text-sm text-white/60  mt-10 ">
+        <div className="lg:hidden flex gap-x-9 items-center  text-white/60  mt-10 text-[10px] ">
           <span>Terms of Service</span>
           <span>Privacy policy</span>
           <span>Disclaimer</span>
