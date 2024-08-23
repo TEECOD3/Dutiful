@@ -63,7 +63,7 @@ const Footer = (props: Props) => {
           <span>Disclaimer</span>
         </div>
 
-        <div className="h-[1px] w-full bg-[#B6B6E5]/40 mt-10"></div>
+        <div className="h-[1px] w-full bg-[#B6B6E5]/20 mt-10"></div>
 
         <div className="flex flex-col-reverse gap-y-4 lg:flex-row justify-between mt-10">
           <div className="flex items-center gap-x-6">
@@ -76,7 +76,7 @@ const Footer = (props: Props) => {
               <Linkedin className="size-4" />
             </div>
           </div>
-          <div className="h-[1px] w-full bg-[#B6B6E5]/40 mt-10 lg:hidden"></div>
+          <div className="h-[1px] w-full bg-[#B6B6E5]/20 mt-10 lg:hidden"></div>
           <div className="flex items-center gap-x-6">
             <span className="text-white  text-xl">Download the app</span>
             <div className="flex gap-x-9 items-center">
@@ -85,7 +85,7 @@ const Footer = (props: Props) => {
             </div>
           </div>
         </div>
-        <div className="h-[1px] w-full bg-[#B6B6E5]/40 mt-8"></div>
+        <div className="h-[1px] w-full bg-[#B6B6E5]/20 mt-8"></div>
 
         <div className="flex flex-col lg:flex-row gap-y-4  lg:items-center gap-x-20 mt-10 max-lg:w-full max-lg:justify-center max-lg:items-center">
           <span className="text-white/80 font-light text-base">
