@@ -8,7 +8,7 @@ type Props = {};
 
 const Calender = (props: Props) => {
   return (
-    <section className="flex flex-col-reverse gap-y-10 lg:flex-row container w-full min-h-[40vh] mx-auto  py-20">
+    <section className="flex flex-col-reverse gap-y-10 lg:flex-row container w-full min-h-[40vh] mx-auto py-10  lg:py-20">
       <div className="w-full lg:w-[60%] flex items-center flex-row">
         <div className="w-full">
           <Image
