@@ -57,7 +57,7 @@ const Footer = (props: Props) => {
           </div>
         </div>
 
-        <div className="lg:hidden flex gap-x-9 items-center  text-white/60  mt-10 text-[14px] ">
+        <div className="lg:hidden flex gap-x-9 items-center  text-white/60  mt-10 text-[12px] ">
           <span>Terms of Service</span>
           <span>Privacy policy</span>
           <span>Disclaimer</span>
@@ -68,7 +68,7 @@ const Footer = (props: Props) => {
         <div className="flex flex-col-reverse gap-y-4 lg:flex-row justify-between mt-10">
           <div className="flex items-center gap-x-6">
             <span className="text-white text-base lg:text-xl">Follow us</span>
-            <div className="flex gap-x-9 items-center">
+            <div className="flex gap-x-6 lg:gap-x-9 items-center">
               <Facebook className="size-6" />
               <Instagram className="size-4" />
               <Twitter className="size-5" />
