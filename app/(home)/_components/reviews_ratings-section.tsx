@@ -19,7 +19,7 @@ const Reviews = (props: Props) => {
         />
       </div>
 
-      <div className="w-full flex gap-y-3 flex-col lg:absolute top-0 left-0 ">
+      <div className="w-full flex gap-y-3 flex-col-reverse lg:absolute top-0 left-0 ">
         <div className="w-full lg:w-[60%] lg:absolute lg:top-20 lg:h-[500px] max-lg:space-y-5">
           <div className="lg:absolute top-0 left-0 z-[2] lg:-rotate-12">
             <Reviewcard />
